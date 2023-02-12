@@ -1,1 +1,31 @@
+body {
+    background-color:lightcyan;
+    width: 900px;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+}
 
+header{
+    margin: 35px 0 0 10px;
+    font-size: 40px;
+    color: blueviolet;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+}
+
+p {
+    text-align: center;
+    color:black;
+  }
+
+  div > p {
+    background-color:coral;
+  }
